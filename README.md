@@ -75,5 +75,4 @@ I'm also improving my English while looking for opportunities to collaborate wit
 I'm open to **remote Software Engineer / Backend Developer / Full Stack Developer opportunities**.
 
 📍 Chile 🇨🇱  
-🌎 Open to remote international opportunitiesct: ...
--->
+🌎 Open to remote international opportunitiesct
